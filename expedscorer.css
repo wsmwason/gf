@@ -26,6 +26,10 @@
 	line-height:15px;
 	margin:0px 0px 1px 0px;
 }
+.tab_expedscorer .expedNumBox img {
+	width:100%;
+	height:100%;
+}
 .tab_expedscorer .expedNumBox .expedCheck {
 	width:15px;
 	height:15px;
